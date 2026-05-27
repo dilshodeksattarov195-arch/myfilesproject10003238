@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterencrypt",
+        "uuid": 6518094,
+        "checksum": "kiwee"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
